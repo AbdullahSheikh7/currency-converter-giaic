@@ -1,0 +1,32 @@
+{
+  "name": "currency-converter-giaic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahSheikh7/currency-converter-giaic.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "currency-converter-giaic": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "inquirer": "^9.2.16",
+    "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/AbdullahSheikh7/currency-converter-giaic/issues"
+  },
+  "homepage": "https://github.com/AbdullahSheikh7/currency-converter-giaic#readme",
+  "description": ""
+}
